@@ -2,8 +2,9 @@
 
 Funtion:
 
-# Press the cancel button can delete the task:
+# Press the cancel button
+Press the cancel button can delete the task
 
 # Double click the button 
-  Double click the button, the task would get green
+Double click the button, the task would get green
  
